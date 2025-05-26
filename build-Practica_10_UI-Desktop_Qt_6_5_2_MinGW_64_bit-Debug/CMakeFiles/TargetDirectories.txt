@@ -1,0 +1,9 @@
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/Practica_4_UI.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/Practica_4_UI_autogen_timestamp_deps.dir
+E:/Trabajos_escuela/Seminario_algoritmia/programas/build-Practica_10_UI-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/Practica_4_UI_autogen.dir
