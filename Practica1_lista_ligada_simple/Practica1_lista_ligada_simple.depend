@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1674498261 source:d:\seminario_algoritmia\practica1_lista_ligada_simple\nodo.cpp
+	"Nodo.h"
+	"Paquete.h"
+	<iostream>
+
+1674676773 d:\seminario_algoritmia\practica1_lista_ligada_simple\nodo.h
+	"Paquete.h"
+	<iostream>
+
+1674666525 d:\seminario_algoritmia\practica1_lista_ligada_simple\paquete.h
+	<iostream>
+
+1674667070 source:d:\seminario_algoritmia\practica1_lista_ligada_simple\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<iomanip>
+	<string.h>
+
+1674676097 source:d:\seminario_algoritmia\practica1_lista_ligada_simple\lista.cpp
+	"Lista.h"
+	<iostream>
+	<iomanip>
+
+1674676649 d:\seminario_algoritmia\practica1_lista_ligada_simple\lista.h
+	<iostream>
+	<fstream>
+	"Paquete.h"
+	"Nodo.h"
+
+1674675826 source:d:\seminario_algoritmia\practica1_lista_ligada_simple\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	"Paquete.h"
+	"Lista.h"
+	"Nodo.h"
+
